@@ -1,3 +1,3 @@
 # 4_Function_Calculator
 ---
-Work in progress calculator
+Calculator that uses some javascript
